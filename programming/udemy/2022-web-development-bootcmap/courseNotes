@@ -1,0 +1,39 @@
+How Does Internet Actually Work?
+
+How Do Websites Work?
+- Html file
+- CSS file
+- JS file
+
+
+Introduction to HTML (Hypertext Markup Language)
+
+developer mozilla 
+
+<h1>: start tag
+</h1>:end tag
+
+<br> self closing tag
+
+devdocs.io
+<hr>: horizontal rule
+<p>: paragraph
+<a>: anchor tag
+<img>: image tag
+<div>: div tag
+<span>: span tag
+<input>: input tag
+<form>: form tag
+<button>: button tag
+<select>: select tag
+<option>: option tag
+<textarea>: textarea tag
+<label>: label tag
+<table>: table tag
+<thead>: thead tag
+<tbody>: tbody tag
+<tr>: tr tag
+<td>: td tag
+<th>: th tag
+<ul>: ul tag
+<li>: li tag
